@@ -49,16 +49,16 @@ body
 {
     background: white;
     padding: 1em;
-<<<<<<< HEAD
-=======
 }
 
 #footer
 {
-    margin: 0px;
-    padding: 1em;
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px 0px 10px  0px;
+    text-align: center;
+    border: 1px solid rgb(87, 87, 87);
     background: rgb(87, 87, 87);
     color: white;
-    text-align: center;
->>>>>>> 3102bfcdad247b38be8787d43f3b2736b9f24a27
+    
 }
