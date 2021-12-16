@@ -1,6 +1,6 @@
 body
 {
-    background: #1e1f24;
+    background: #666;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -50,15 +50,25 @@ body
     background: white;
     padding: 1em;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 302dd7d3ac05c37db7b469ac70809e934227ad05
 }
 
 #footer
 {
-    margin: 0px;
-    padding: 1em;
+    width: 70%;
+    margin: 0 auto ;
+    padding: 10px 0px 10px  0px;
+    text-align: center;
+    border: 1px solid rgb(87, 87, 87);
     background: rgb(87, 87, 87);
     color: white;
+<<<<<<< HEAD
     text-align: center;
 =======
 >>>>>>> eb67f3d08faa7d72861fe3250ccd4ab92f7f5c40
+=======
+    
+>>>>>>> 302dd7d3ac05c37db7b469ac70809e934227ad05
 }
