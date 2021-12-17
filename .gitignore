@@ -1,1 +1,12 @@
-.jpg
+
+
+# excepto production.log
+!otrosdos.jpg
+
+# ignorar los archivos terminados en .txt dentro de la carpeta doc (pero no sus subdirectorios)
+doc/*.txt
+imagenes/*.jpg
+
+
+# ignorar todos los archivos terminados en .pdf dentro de la carpeta doc y sus subdirectorios
+doc/**/*.pdf
